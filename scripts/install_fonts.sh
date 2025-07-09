@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_DIR="./assets/fonts"
+SOURCE_DIR="../assets/fonts"
 DEST_DIR="$HOME/.local/share/fonts"
 DEST_PATH="$DEST_DIR/NFP"
 
